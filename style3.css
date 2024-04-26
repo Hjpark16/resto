@@ -1,0 +1,155 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/hand-drawn-pizza-pattern-background_23-2150905263.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+
+
+h2 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+
+h3 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-color: red  
+}
+
+.established {
+  font-style: italic;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+
+.menu {
+  width: 100%;
+  background-color: #fffff0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+    width: 50px; 
+    height: auto;"
+/>
+
+.item img {
+    width: 100px; 
+    height: auto; 
+}
+
+}
+hr {
+  height: 2px;
+  background-color: rgb(255, 0, 0);
+  border-color: rgb(210, 20, 20);
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1,
+h2,
+h3, {
+  font-family: Impact, italiana;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 24%;
+}
+
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: rgb(236, 122, 122);
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(255, 0, 0);
+}
+
+a:active {
+  color: rgb(255, 0, 0);
+}
+
+body {
+  font-size: 14px;
+}
+
+.menu header h1,
+.menu header p {
+  font-size: 1.0 em; 
+}
+
+.menu main h2 {
+  font-size: 1.0 em; 
+}
+
+.menu main .item p {
+  font-size: 1.0em; 
+}
+
+.menu footer p {
+  font-size: 1.0em;
+}
+
+.menu main .item {
+  margin-bottom: 20px; 
+}
+
+.menu main .item img {
+ width: 250px;  
+  height: 200px; 
+
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+
